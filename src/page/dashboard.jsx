@@ -346,6 +346,7 @@ export function Dashboard() {
                                     </div>
                                 </div>
                             </div>
+                            <button type="button" onClick={() => { alert('Generating a Report!') }} className="text-white bg-[#3f47d8] py-2 px-1 w-full rounded-md">Generate Report</button>
                         </div>
                     </div>
                 </div>
